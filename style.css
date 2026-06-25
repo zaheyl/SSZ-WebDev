@@ -36,3 +36,10 @@ button:hover{
 li{
     margin-top: 10px;
 }
+
+ul {
+    list-style-position: inside;
+    text-align: left;
+    padding-left: 50px;
+    margin: 10px 0;
+}
